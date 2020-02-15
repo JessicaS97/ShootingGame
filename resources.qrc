@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/clip.png</file>
+        <file>images/ground.png</file>
+        <file>images/background.png</file>
+        <file>images/planets.png</file>
+        <file>images/giant.png</file>
+        <file>images/large.png</file>
+        <file>images/normal.png</file>
+        <file>images/tiny.png</file>
+        <file>images/alien.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>sounds/bg.mp3</file>
+        <file>sounds/jump.wav</file>
+        <file>sounds/shoot.wav</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file>config.txt</file>
+    </qresource>
+</RCC>
